@@ -38,8 +38,8 @@ If I could define myself in 3 words I would say I am.
 <p align="left">
 
 <a href="https://twitter.com/denilson_paco" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/denilson-paco-24b629181/n" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://www.instagram.com/denilsonmn/n" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/denilson-paco-24b629181/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://www.instagram.com/denilsonmn/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
